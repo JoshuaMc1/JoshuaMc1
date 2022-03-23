@@ -6,8 +6,8 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaMc1&show_icons=true&count_private=true&hide_border=true&theme=dark" width="400em" height="180em" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaMc1&hide_border=true&layout=compact&theme=dark" width="400em" height="180em" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaMc1&show_icons=true&count_private=true&hide_border=true&theme=dracula" width="400em" height="180em" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaMc1&hide_border=true&layout=compact&theme=dracula" width="400em" height="180em" />  
 </div> 
 
 <br/>
