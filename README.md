@@ -46,7 +46,8 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50"/>
 </div>
 
-</td><td valign="top" width="33%">
+</td></table>
+<!--   <td valign="top" width="33%">
 
 
 
@@ -57,7 +58,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>   -->
 
 <br/>  
 
