@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JMFramework<br>🌱 I’m currently learning React and Python<br>💬 Ask me about PHP, Java and JavaScript
+🔭 I’m currently working on <a href="https://github.com/JoshuaMc1/JMFramework">JMFramework</a><br>🌱 I’m currently learning <strong>React and Python<br>💬 Ask me about <strong>PHP, Java and JavaScript</strong>
 
 
 ## 🌐 Socials:
